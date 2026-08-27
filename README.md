@@ -1,5 +1,7 @@
-# Hi, I'm David Joy ![Waving Hand](assets/waving-hand.gif)
-
+<h1>
+  Hi, I'm David Joy
+  <img src="assets/waving-hand.gif" width="35" alt="Waving hand">
+</h1>
 I'm a Software Developer passionate about building useful applications
 and solving interesting problems.
 
