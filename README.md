@@ -1,4 +1,4 @@
-# Hi, I'm David Joy 👋
+# Hi, I'm David Joy ![Waving Hand](assets/waving-hand.gif)
 
 I'm a Software Developer passionate about building useful applications
 and solving interesting problems.
