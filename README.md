@@ -1,41 +1,28 @@
-<h1>
-  Hi, I'm David Joy
-  <img src="assets/waving-hand.gif" width="35" alt="Waving hand">
-</h1>
-I'm a Software Developer passionate about building useful applications
-and solving interesting problems.
+# Hi, I'm David Joy 👋
+
+I'm an Artificial Intelligence engineer passionate about building useful applications and solving interesting problems.
 
 ## About Me
 
-- 🎓 Computer Science student
-- 💻 Interested in Software Engineering and AI
-- 🌱 Currently learning React, Python, and Cloud technologies
+- 🎓 Masters in Artificial Intelligence (Thesis Track) 
+- 💻 Experience building solutions for Academic and Commercial AI research partners
+- 🌱 Currently learning CUDA and Inference engineering to sharpen up my engineering skills
 - 🚀 Building projects to improve my development skills
 
 ## Tech Stack
 
-**Languages:** Python, Java, JavaScript, C++
+**Languages and Skills**: Python, C++, SQL, R, Machine Learning, Computer Vision, Multi-Agent Systems, MLOps 
 
-**Frontend:** React, HTML, CSS
+**Developer Tools:** Linux bash, Git,Docker, ONNX, MLflow, AWS, Azure, Databricks, SnowFlake. 
 
-**Backend:** Node.js, Flask
-
-**Tools:** Git, GitHub, Docker
+**Technologies/Frameworks**: PyTorch, Tensorflow, LangChain, LangGraph, Flask, OpenCV
 
 ## Featured Projects
 
-### 🚀 Project One
-Short description of what the project does.
-
-[View Project](https://github.com/USERNAME/project-one)
-
-### 🤖 Project Two
-Short description of the project.
-
-[View Project](https://github.com/USERNAME/project-two)
+Section Coming Soon
 
 ## Connect With Me
 
-- LinkedIn: your-link
-- Portfolio: your-link
-- Email: your-email
+- LinkedIn: www.linkedin.com/in/david-joy-me
+- Portfolio: coming soon
+- Email: davidjoydev@gmail.com
