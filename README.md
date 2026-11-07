@@ -15,7 +15,7 @@ I'm an Artificial Intelligence engineer passionate about building useful applica
 
 **Developer Tools:** Linux bash, Git,Docker, ONNX, MLflow, AWS, Azure, Databricks, SnowFlake. 
 
-**Technologies/Frameworks**: PyTorch, Tensorflow, LangChain, LangGraph, Flask, OpenCV
+**Technologies/Frameworks**: PyTorch, Tensorflow, LangChain, LangGraph, Flask, OpenCV , CUDA , vLLM , SGLang
 
 ## Featured Projects
 
