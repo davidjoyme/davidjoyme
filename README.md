@@ -16,7 +16,7 @@ I'm an Artificial Intelligence engineer, Working on making AI faster and more ef
 
 **Technologies/Frameworks**: PyTorch, Tensorflow, LangChain, LangGraph, Flask, OpenCV , CUDA , vLLM , SGLang
 
-## Featured Projects (Click on links to view)
+## Featured Projects (Click on links to view repositories)
 
 - **[Mini-Inference](https://github.com/davidjoyme/mini-inference)**: A mini inference engine with features from vLLM, SGLang, and TensorRT-LLM implemented and analyzed.
 - **[Flashdecode-CUDA](https://github.com/davidjoyme/flashdecode-cuda)**: Faster kernel implementations for the RTX 5090 GPU for LLMs with Grouped Query Attention.
