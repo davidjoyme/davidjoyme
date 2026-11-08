@@ -1,6 +1,6 @@
 # Hi, I'm David Joy 👋
 
-I'm an Artificial Intelligence engineer passionate about building useful applications and solving interesting problems.
+I'm an Artificial Intelligence engineer, Working on making AI faster and more efficient for feasible deployment.
 
 ## About Me
 
@@ -10,9 +10,9 @@ I'm an Artificial Intelligence engineer passionate about building useful applica
 
 ## Tech Stack
 
-**Languages and Skills**: Python, C++, SQL, R, Machine Learning, Computer Vision, Multi-Agent Systems, MLOps 
+**Languages and Skills**: Python, C++, SQL, R, Machine Learning, Computer Vision, MLOps 
 
-**Developer Tools:** Linux bash, Git,Docker, ONNX, MLflow, AWS, Azure, Databricks, SnowFlake. 
+**Developer Tools:** Linux bash, Git,Docker, ONNX, MLflow, AWS, Azure
 
 **Technologies/Frameworks**: PyTorch, Tensorflow, LangChain, LangGraph, Flask, OpenCV , CUDA , vLLM , SGLang
 
